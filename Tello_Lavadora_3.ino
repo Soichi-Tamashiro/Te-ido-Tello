@@ -3,7 +3,7 @@
 LiquidCrystal_I2C lcd (0x27, 16, 2);
 
 int InRojo = 2;         int OutRojo = 5;
-int InAmarillo = 3;     int OutAmarillo = 6;
+int InAmarillo = 3;     int OutAmarillo = 12;
 int InAzul = 4;         int OutAzul = 7;
 int Salida = 8;         int Motor = 9;
 int A = 10;             int B = 11;
